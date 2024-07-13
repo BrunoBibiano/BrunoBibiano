@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Bruno Bibiano 👋
 
+Sou graduado em Direito pela UNIPINHAL, atualmente estou cursando Análise e Desenvolvimento de Sistemas e fazendo um MBA em Segurança da Informação pela UniAmérica.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobibiano/)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBibiano&show_icons=true&theme=dark)
