@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"><img src="./assets/news-1.gif" alt="Pacote Python da Microsoft no PyPI é comprometido" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"><img src="./assets/news-2.gif" alt="Apache alerta sobre falha RCE explorada em ataques" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"><img src="./assets/news-3.gif" alt="Operação com FBI prende suspeitos ligados a ransomware" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"><img src="./assets/news-1.gif" alt="Transport for London breach exposes 265,000 Oyster card users&#x27; data" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"><img src="./assets/news-2.gif" alt="PHP security updates fix 18 flaws, including critical RCE bugs" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"><img src="./assets/news-3.gif" alt="Five warning signs of ransomware breach before encryption or data theft" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-18 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-19 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">
