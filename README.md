@@ -1,150 +1,43 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Bruno%20Bibiano&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Desenvolvimento%20em%20evolu%C3%A7%C3%A3o&descAlignY=58" />
-
-## 👋 Olá, eu sou Bruno Bibiano
-
-**Segurança da Informação • Automação • Desenvolvimento de Software**
-
-Sou profissional da área de **Segurança da Informação**, com atuação em **ISO 27001, TISAX, governança, indicadores e melhoria de processos**.  
-Atualmente, também estou evoluindo em **programação e desenvolvimento de soluções**, com foco em projetos práticos e automação.
-
-<p>
-  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/BrunoBibiano" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BrunoBibiano&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
-
+<!--
+  PROFILE README — Bruno Bibiano
+  Visual original: dashboard dark / neon discreto.
+  Assets animados em ./assets/ (GIFs funcionam no GitHub sem JavaScript).
+--><div align="center">
+  <img src="./assets/hero.gif" width="100%" alt="Bruno Bibiano — Segurança da Informação, Automação e desenvolvimento em evolução. Banner animado em tons de azul, roxo e ciano." />
+</div><p align="center">
+  <a href="https://github.com/BrunoBibiano?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR%20REPOSIT%C3%93RIOS-171B2E?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explorar repositórios" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BrunoBibiano&style=for-the-badge&color=7354BC&label=VISITAS%20AO%20PERFIL" alt="Visualizações de perfil" />
+</p><div align="center">
+  <img src="./assets/focus.png" width="100%" alt="Minhas áreas de atuação: segurança da informação, compliance TISAX, automação com Python em evolução e dados/BI." />
 </div>
-
----
-
-## ✨ Sobre mim
-
-- 🔐 Atuação em **Segurança da Informação**, **ISO 27001** e **TISAX**
-- ⚙️ Interesse em **automação de processos** e desenvolvimento de soluções úteis
-- 📊 Experiência com **indicadores, dados, Excel e Power BI**
-- 💻 Em evolução em **Python, JavaScript, HTML, CSS e desenvolvimento de sistemas**
-- 🚀 Buscando unir **negócio + tecnologia + segurança**
-
----
-
-## 📌 Destaques
-
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/FOCO-Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o-111827?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/INTERESSE-Automa%C3%A7%C3%A3o%20e%20Software-111827?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/STATUS-Aprendizado%20Cont%C3%ADnuo-111827?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
+  <img src="./assets/skills.gif" width="100%" alt="Tecnologias e habilidades: Python, JavaScript, HTML, CSS, TypeScript, Git, GitHub, VS Code, Excel, Power BI, SharePoint, ISO 27001, TISAX e GRC. Painel animado." />
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### Linguagens
-<p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
-
-### Ferramentas e Plataformas
-<p>
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-  <img src="https://img.shields.io/badge/SharePoint-0f172a?style=for-the-badge&logo=microsoftsharepoint&logoColor=0078D4" />
-</p>
-
-### Áreas de conhecimento
-<p>
-  <img src="https://img.shields.io/badge/ISO%2027001-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TISAX-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Indicadores-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Melhoria%20Cont%C3%ADnua-111827?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Travelgram</h3>
-      <p>Projeto de interface web para prática de estruturação e estilização com HTML e CSS.</p>
-      <a href="https://github.com/BrunoBibiano/Projeto-Travelgram">Ver repositório</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎮 Jogo do Número Secreto</h3>
-      <p>Projeto de estudo em JavaScript, HTML e CSS com foco em lógica e interatividade.</p>
-      <a href="https://github.com/BrunoBibiano/jogo-numero-secreto-alura">Ver repositório</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💼 Portfólio Responsivo</h3>
-      <p>Projeto desenvolvido para praticar responsividade e construção de páginas web.</p>
-      <a href="https://github.com/BrunoBibiano/portifolio-responsivo-alura">Ver repositório</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBibiano&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBibiano&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=BrunoBibiano&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Atualmente focado em
-
-- Evoluir em **Python**
-- Criar soluções com **automação**
-- Desenvolver projetos práticos para portfólio
-- Integrar **segurança da informação** com **tecnologia**
-- Aprender mais sobre **desenvolvimento web** e **sistemas**
-
----
-
-## 🤝 Vamos nos conectar
-
+  <a href="https://github.com/BrunoBibiano?tab=repositories"><img src="./assets/projects.png" width="100%" alt="Áreas dos projetos: automação com Python, dashboards de dados e desenvolvimento web. Clique para explorar os repositórios." /></a>
+</div><p align="center">
+  <sub>Os projetos são experimentos e estudos em evolução. O aprendizado é contínuo.</sub>
+</p><details>
+  <summary><b>Sobre mim / About me</b></summary>
+  <br />
+  Sou profissional de Segurança da Informação, com experiência em governança, ISO/IEC 27001, TISAX e melhoria contínua. Tenho interesse em usar tecnologia para resolver problemas reais, automatizar tarefas e transformar dados em informações úteis. Estou desenvolvendo minhas habilidades de programação por meio de projetos práticos, especialmente com Python e desenvolvimento web.
+</details><!-- Gráfico dinâmico opcional. Se preferir um README 100% independente de serviços de terceiros,
+     remova o trecho abaixo. O site do gráfico pode ficar indisponível temporariamente. --><details>
+  <summary><b>Ver minha atividade no GitHub</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoBibiano&bg_color=0B0F1B&color=A7B2D0&line=9D67FF&point=26DBCF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="Gráfico de atividade pública no GitHub" />
+  </p>
+</details>
 <div align="center">
+  <img src="./assets/footer.gif" width="100%" alt="Always in build mode — Aprendendo. Experimentando. Evoluindo. Equalizador luminoso animado." />
+</div><!--
+  EXTRA OPCIONAL: COBRA ANIMADA NAS CONTRIBUIÇÕES
+  1. Suba .github/workflows/snake.yml ao repositório.
+  2. Na aba Actions, execute o workflow 'Update contribution snake'.
+  3. Depois que a branch 'output' existir, descomente o bloco abaixo:
 
-Se quiser trocar ideias sobre **segurança**, **automação**, **dados** ou **tecnologia**, fique à vontade para me chamar.
-
-<a href="SEU_LINK_LINKEDIN_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/BrunoBibiano/BrunoBibiano/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra animada percorrendo meu gráfico de contribuições" />
+  </p>
+-->
