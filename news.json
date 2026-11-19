@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pacote Python da Microsoft no PyPI é comprometido",
+    "summary": "Versões maliciosas do Agent Framework tentaram roubar credenciais.",
+    "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+    "source": "BleepingComputer", "published": "2026-11-18", "tag": "SUPPLY CHAIN"
+  },
+  {
+    "title": "Apache alerta sobre falha RCE explorada em ataques",
+    "summary": "Vulnerabilidade no Apache Roller exige atualização.",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "source": "BleepingComputer", "published": "2026-11-18", "tag": "VULNERABILIDADES"
+  },
+  {
+    "title": "Operação com FBI prende suspeitos ligados a ransomware",
+    "summary": "Autoridades investigam grupo ligado a extorsão digital.",
+    "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+    "source": "BleepingComputer", "published": "2026-11-18", "tag": "RANSOMWARE"
+  }
+]
