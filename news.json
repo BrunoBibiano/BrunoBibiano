@@ -1,26 +1,26 @@
 [
   {
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "source": "BleepingComputer",
+    "published": "2026-11-20",
+    "tag": "VULNERABILIDADES"
+  },
+  {
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "source": "BleepingComputer",
+    "published": "2026-11-19",
+    "tag": "CYBER NEWS"
+  },
+  {
     "title": "Transport for London breach exposes 265,000 Oyster card users' data",
     "summary": "Acompanhe a reportagem na fonte original.",
     "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
     "source": "BleepingComputer",
     "published": "2026-11-19",
     "tag": "CYBER NEWS"
-  },
-  {
-    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-    "source": "BleepingComputer",
-    "published": "2026-11-19",
-    "tag": "VULNERABILIDADES"
-  },
-  {
-    "title": "Five warning signs of ransomware breach before encryption or data theft",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-    "source": "BleepingComputer",
-    "published": "2026-11-19",
-    "tag": "RANSOMWARE"
   }
 ]

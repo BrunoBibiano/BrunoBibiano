@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"><img src="./assets/news-1.gif" alt="Transport for London breach exposes 265,000 Oyster card users&#x27; data" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"><img src="./assets/news-2.gif" alt="PHP security updates fix 18 flaws, including critical RCE bugs" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"><img src="./assets/news-3.gif" alt="Five warning signs of ransomware breach before encryption or data theft" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"><img src="./assets/news-1.gif" alt="VMware patches vCenter zero-day exploited in attacks since September" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"><img src="./assets/news-2.gif" alt="Hackers steal data of 1.6 million SBC Medical Group customers" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"><img src="./assets/news-3.gif" alt="Transport for London breach exposes 265,000 Oyster card users&#x27; data" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-19 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-20 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">
