@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+    "source": "BleepingComputer",
+    "published": "2026-11-22",
+    "tag": "CYBER NEWS"
+  },
+  {
     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
     "summary": "Acompanhe a reportagem na fonte original.",
     "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
@@ -14,13 +22,5 @@
     "source": "BleepingComputer",
     "published": "2026-11-21",
     "tag": "VULNERABILIDADES"
-  },
-  {
-    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-    "source": "BleepingComputer",
-    "published": "2026-11-20",
-    "tag": "CYBER NEWS"
   }
 ]
