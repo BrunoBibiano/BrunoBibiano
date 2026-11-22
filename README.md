@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"><img src="./assets/news-1.gif" alt="Bell Canada says &#x27;agentic&#x27; hacker stole enterprise customer data" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"><img src="./assets/news-2.gif" alt="Hackers use autonomous AI tool Cairn to find zero-day, take over server" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"><img src="./assets/news-3.gif" alt="Vendor data breach exposes Chase, Visa, Mastercard customer info" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"><img src="./assets/news-1.gif" alt="Rackspace Spot breach let hackers access customer Kubernetes secrets" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"><img src="./assets/news-2.gif" alt="Microsoft Entra Connect Health flaw exploited to steal tenant data" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"><img src="./assets/news-3.gif" alt="Bell Canada says &#x27;agentic&#x27; hacker stole enterprise customer data" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-20 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-21 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">

@@ -1,24 +1,24 @@
 [
   {
-    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
     "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+    "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
     "source": "BleepingComputer",
-    "published": "2026-11-20",
+    "published": "2026-11-21",
     "tag": "CYBER NEWS"
   },
   {
-    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
     "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
     "source": "BleepingComputer",
-    "published": "2026-11-20",
+    "published": "2026-11-21",
     "tag": "VULNERABILIDADES"
   },
   {
-    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
     "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
     "source": "BleepingComputer",
     "published": "2026-11-20",
     "tag": "CYBER NEWS"
