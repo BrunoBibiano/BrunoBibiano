@@ -53,9 +53,9 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"><img src="./assets/news-1.gif" alt="Cleverbridge warns hackers stole credit card numbers, CVVs in data breach" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"><img src="./assets/news-2.gif" alt="Rackspace Spot breach let hackers access customer Kubernetes secrets" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"><img src="./assets/news-3.gif" alt="Microsoft Entra Connect Health flaw exploited to steal tenant data" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"><img src="./assets/news-1.gif" alt="Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"><img src="./assets/news-2.gif" alt="Cleverbridge warns hackers stole credit card numbers, CVVs in data breach" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"><img src="./assets/news-3.gif" alt="Rackspace Spot breach let hackers access customer Kubernetes secrets" width="100%"/></a></td>
 </tr></table>
 
 <p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-22 · Clique nos cards para ler a matéria.</sub></p>

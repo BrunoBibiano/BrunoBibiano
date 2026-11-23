@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "source": "BleepingComputer",
+    "published": "2026-11-22",
+    "tag": "VULNERABILIDADES"
+  },
+  {
     "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
     "summary": "Acompanhe a reportagem na fonte original.",
     "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -14,13 +22,5 @@
     "source": "BleepingComputer",
     "published": "2026-11-21",
     "tag": "CYBER NEWS"
-  },
-  {
-    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-    "source": "BleepingComputer",
-    "published": "2026-11-21",
-    "tag": "VULNERABILIDADES"
   }
 ]
