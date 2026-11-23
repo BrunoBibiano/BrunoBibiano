@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"><img src="./assets/news-1.gif" alt="Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"><img src="./assets/news-2.gif" alt="Cleverbridge warns hackers stole credit card numbers, CVVs in data breach" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"><img src="./assets/news-3.gif" alt="Rackspace Spot breach let hackers access customer Kubernetes secrets" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"><img src="./assets/news-1.gif" alt="South Korea’s power giant KEPCO confirms data breach impacting 1.5 million" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"><img src="./assets/news-2.gif" alt="Microsoft Azure flaw exploited to steal customers&#x27; API credentials" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/"><img src="./assets/news-3.gif" alt="Spanish LaLiga confirms hackers stole soccer fans’ personal data" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-22 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-23 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">

@@ -1,26 +1,26 @@
 [
   {
-    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
     "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
     "source": "BleepingComputer",
-    "published": "2026-11-22",
-    "tag": "VULNERABILIDADES"
-  },
-  {
-    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-    "source": "BleepingComputer",
-    "published": "2026-11-22",
+    "published": "2026-11-23",
     "tag": "CYBER NEWS"
   },
   {
-    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
     "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
     "source": "BleepingComputer",
-    "published": "2026-11-21",
+    "published": "2026-11-23",
+    "tag": "VULNERABILIDADES"
+  },
+  {
+    "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+    "source": "BleepingComputer",
+    "published": "2026-11-23",
     "tag": "CYBER NEWS"
   }
 ]
