@@ -53,9 +53,9 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"><img src="./assets/news-1.gif" alt="Turnitin discloses cyberattack affecting customer-facing systems" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"><img src="./assets/news-2.gif" alt="Radware discloses breach exposing customer cloud access keys" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"><img src="./assets/news-3.gif" alt="European Commission confirms data theft in EU Academy breach" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"><img src="./assets/news-1.gif" alt="Rackspace shuts down Spot cloud platform after security breach" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"><img src="./assets/news-2.gif" alt="Turnitin discloses cyberattack affecting customer-facing systems" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"><img src="./assets/news-3.gif" alt="Radware discloses breach exposing customer cloud access keys" width="100%"/></a></td>
 </tr></table>
 
 <p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-24 · Clique nos cards para ler a matéria.</sub></p>
