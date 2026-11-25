@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"><img src="./assets/news-1.gif" alt="Rackspace shuts down Spot cloud platform after security breach" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"><img src="./assets/news-2.gif" alt="Turnitin discloses cyberattack affecting customer-facing systems" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"><img src="./assets/news-3.gif" alt="Radware discloses breach exposing customer cloud access keys" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"><img src="./assets/news-1.gif" alt="Italy and Switzerland warn of autonomous AI-driven cyberattacks" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"><img src="./assets/news-2.gif" alt="CISA warns of critical unpatched flaw in Danfoss refrigeration controllers" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"><img src="./assets/news-3.gif" alt="InfraTrust warns of exploited supply chain flaws in network appliances" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-24 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-25 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">
