@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"><img src="./assets/news-1.gif" alt="Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"><img src="./assets/news-2.gif" alt="1Password customer data stolen after employee GitHub account breach" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"><img src="./assets/news-3.gif" alt="Italy and Switzerland warn of autonomous AI-driven cyberattacks" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/"><img src="./assets/news-1.gif" alt="Remus malware steals Gmail messages via fake Google Sheets extension" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/"><img src="./assets/news-2.gif" alt="SYS010 malware abuses browser management to spy on Gmail, Outlook" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"><img src="./assets/news-3.gif" alt="Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-25 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-26 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">

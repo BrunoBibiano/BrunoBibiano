@@ -1,26 +1,26 @@
 [
   {
+    "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+    "source": "BleepingComputer",
+    "published": "2026-11-26",
+    "tag": "CYBER NEWS"
+  },
+  {
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+    "summary": "Acompanhe a reportagem na fonte original.",
+    "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "source": "BleepingComputer",
+    "published": "2026-11-26",
+    "tag": "CYBER NEWS"
+  },
+  {
     "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
     "summary": "Acompanhe a reportagem na fonte original.",
     "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
     "source": "BleepingComputer",
     "published": "2026-11-25",
     "tag": "VULNERABILIDADES"
-  },
-  {
-    "title": "1Password customer data stolen after employee GitHub account breach",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-    "source": "BleepingComputer",
-    "published": "2026-11-25",
-    "tag": "CYBER NEWS"
-  },
-  {
-    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-    "summary": "Acompanhe a reportagem na fonte original.",
-    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-    "source": "BleepingComputer",
-    "published": "2026-11-25",
-    "tag": "CYBER NEWS"
   }
 ]
