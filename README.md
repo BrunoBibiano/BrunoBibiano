@@ -53,9 +53,9 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"><img src="./assets/news-1.gif" alt="Italy and Switzerland warn of autonomous AI-driven cyberattacks" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/"><img src="./assets/news-2.gif" alt="CISA warns of critical unpatched flaw in Danfoss refrigeration controllers" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"><img src="./assets/news-3.gif" alt="InfraTrust warns of exploited supply chain flaws in network appliances" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/"><img src="./assets/news-1.gif" alt="Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"><img src="./assets/news-2.gif" alt="1Password customer data stolen after employee GitHub account breach" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"><img src="./assets/news-3.gif" alt="Italy and Switzerland warn of autonomous AI-driven cyberattacks" width="100%"/></a></td>
 </tr></table>
 
 <p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-25 · Clique nos cards para ler a matéria.</sub></p>
