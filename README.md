@@ -53,12 +53,12 @@
 
 <!-- NEWS:START -->
 <table><tr>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"><img src="./assets/news-1.gif" alt="New Boston Scientific data breach exposes personal, medical info" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"><img src="./assets/news-2.gif" alt="Unpatched Cacti zero-day with public PoC gives remote code execution" width="100%"/></a></td>
-<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"><img src="./assets/news-3.gif" alt="US Air Force cloud platform reportedly hacked in latest federal breach" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/"><img src="./assets/news-1.gif" alt="College Board confirms data breach after unauthorized password changes" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/"><img src="./assets/news-2.gif" alt="Q-Dir and DesktopOK Windows utilities compromised to push Python RAT" width="100%"/></a></td>
+<td width="33%"><a href="https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/"><img src="./assets/news-3.gif" alt="New Boston Scientific data breach exposes personal, medical info" width="100%"/></a></td>
 </tr></table>
 
-<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-27 · Clique nos cards para ler a matéria.</sub></p>
+<p align="center"><sub>Fonte: BleepingComputer · Títulos originais podem estar em inglês · Data da última seleção: 2026-11-28 · Clique nos cards para ler a matéria.</sub></p>
 <!-- NEWS:END -->
 
 <p align="center">
